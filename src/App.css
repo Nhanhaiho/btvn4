@@ -1,0 +1,26 @@
+.Header{
+  width: 100vw;
+  display: flex;
+}
+
+.banner img{
+  height: 330px;
+  margin-right: 10px;
+}
+/* .SiderBannerCotainer{
+  display: flex;
+  flex-direction: column;
+} */
+/* .side_banner img{
+  width: 100vw;
+} */
+
+
+/* .side_banner{
+  height: 100px;
+  background-color: blue;
+} */
+.products{
+  display: flex;
+  flex-wrap: ;
+}
